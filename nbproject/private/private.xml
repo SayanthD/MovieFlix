@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/impl/DetailDaoImpl.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/model/Comment.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/AddItemController.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/CommentDao.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/impl/UsersDaoImpl.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/model/Items.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/DashboardController.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/ItemsDao.java</file>
+            <file>file:/D:/MovieFlix/web/dashboard.jsp</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/impl/ItemsDaoImpl.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/utils/JDBCUtils.java</file>
+            <file>file:/D:/MovieFlix/web/index.jsp</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/UsersController.java</file>
+            <file>file:/D:/MovieFlix/web/forgot.jsp</file>
+            <file>file:/D:/MovieFlix/web/home.jsp</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/model/Users.java</file>
+            <file>file:/D:/MovieFlix/web/details.jsp</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/LoginController.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/RegisterController.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/dao/impl/ReviewDaoImpl.java</file>
+            <file>file:/D:/MovieFlix/src/java/com/movieflix/web/DetailController.java</file>
+        </group>
+    </open-files>
+</project-private>
